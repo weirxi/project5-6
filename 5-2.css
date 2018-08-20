@@ -1,0 +1,21 @@
+h1{
+    margin:0px 25px 0px 0px;
+    background-image:linear-gradient(to top,#90BDFA,#2F85FA);
+    width:100px;
+    height:730px;
+    float:left;
+    text-align:center;
+    padding-top:30px;
+  }
+  h2{
+    padding-top:20px;
+  }
+  strong{
+    margin-left:30px;
+  }
+  strong.ding{
+    margin-left:0px;
+  }
+  
+  
+  

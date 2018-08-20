@@ -1,0 +1,16 @@
+h1{
+    font-size:45px;
+}
+h2{
+    padding-top:20px;
+  }
+  strong{
+    margin-left:30px;
+  }
+  strong.ding{
+    margin-left:0px;
+  }
+  strong.ding2{
+    margin-left:0px;
+  
+  }

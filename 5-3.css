@@ -1,0 +1,28 @@
+h1{
+    margin:0px;
+    width:100%;
+    background-color:rgb(132,132,132);
+    padding:10px;
+  }
+  h2{
+    float:left;
+    margin:0px;
+    padding:30px;
+    width:100px;
+    height:40px;
+    background-color:rgb(214,214,214);
+    border-bottom:1px solid white;
+  }
+  p{
+    margin:0px;
+    height:101px;
+    background-color:white;
+    border-bottom:1px solid rgb(214,214,214);
+  }
+  strong{
+      margin-left:30px;
+    }
+    strong.ding{
+      margin-left:0px;
+    }
+    
